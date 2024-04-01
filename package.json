@@ -1,0 +1,33 @@
+{
+  "name": "vuthien2608-check-balance",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vuducthien268/vuthien2608-check-balance.git"
+  },
+  "keywords": [
+    "vuthien2608-check-balance",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "vuducthien268",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuducthien268/vuthien2608-check-balance/issues"
+  },
+  "homepage": "https://github.com/vuducthien268/vuthien2608-check-balance#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "vuducthien2608-gas-convert": "1.0.0"
+
+  }
+}
